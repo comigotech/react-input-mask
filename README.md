@@ -1,11 +1,10 @@
 # comigo-tech-react-input-mask
 
-## Forked by comigo tech from https://github.com/sanniassin/react-input-mask
-## Soon this README will be updated
-
-[![Build Status](https://img.shields.io/travis/sanniassin/react-input-mask/master.svg?style=flat)](https://travis-ci.org/sanniassin/react-input-mask) [![npm version](https://img.shields.io/npm/v/react-input-mask.svg?style=flat)](https://www.npmjs.com/package/react-input-mask) [![npm downloads](https://img.shields.io/npm/dm/react-input-mask.svg?style=flat)](https://www.npmjs.com/package/react-input-mask)
+[![npm version](https://img.shields.io/npm/v/comigo-tech-react-input-mask.svg?style=flat)](https://www.npmjs.com/package/comigo-tech-react-input-mask) [![npm downloads](https://img.shields.io/npm/dm/comigo-tech-react-input-mask.svg?style=flat)](https://www.npmjs.com/package/comigo-tech-react-input-mask)
 
 Input masking component for React. Made with attention to UX.
+
+**Forked by comigo tech from https://github.com/sanniassin/react-input-mask**
 
 **This is a development branch for version 3.0. For the latest stable version [see v2 branch](https://github.com/sanniassin/react-input-mask/tree/v2).**
 
@@ -18,7 +17,7 @@ Input masking component for React. Made with attention to UX.
 * [Known Issues](#known-issues)
 
 # Installation
-```npm install react-input-mask@next --save```
+```npm install comigo-tech-react-input-mask --save```
 
 react-input-mask requires **React 16.8.0 or later.** If you need support for older versions, use [version 2](https://github.com/sanniassin/react-input-mask/tree/v2).
 
